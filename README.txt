@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## About
-The website presents my projects, skills, and background as a Data Analyst transitioning into Data Engineering.
+The website presents my projects, skills, and background as a Data Analyst.
 
 ## Technologies
 - HTML5
