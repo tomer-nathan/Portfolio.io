@@ -2,10 +2,10 @@
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
-## About
+## About 
 The website presents my projects, skills, and background as a Data Analyst.
 
-## Technologies
+## Technologies:
 - HTML5
 - CSS3
 - JavaScript
